@@ -1,0 +1,6 @@
+I've noticed that dealing and with stack is much easier than dealing with the scondery memory the way wwe did back in chapter 1. 
+Moreover, it's much faster.
+It was first challenging to referance only the last element in the stack nut it was so much fun.
+I don't know but in general, I think chapter 2 was entertaining and didn't take time as much as ch1 did
+The good old days when the developer used the foth language was really really good days 
+
